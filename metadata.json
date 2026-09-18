@@ -1,0 +1,7 @@
+{
+  "name": "AI Studio Faceless Video",
+  "description": "Mobile-first AI faceless video automation studio with structured script generation, voiceover, auto-captions, series automation, and video rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
